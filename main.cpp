@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
     
     ifstream in_stream; //takes values from files / provides input operation on files / read data from files
     
-    in_stream.open("/Users/maxmitchell/Documents/Edu/CS/msc-imperial/modules/intro-to-c-plus-plus/Ex 4, Q1/Ex 4, Q1/main.cpp");
+    in_stream.open(".../main.cpp");
    
     if (in_stream.fail()){
         cout << "Sorry, the file couldn't be opened!\n";
