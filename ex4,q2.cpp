@@ -38,7 +38,7 @@ int main(int argc, const char * argv[]) {
             while (!(character == '*' && in_stream.peek() == '/') && !in_stream.eof()){
                 in_stream.get(character);
             }
-            in_stream.get(character); // nicer way to move the pointer and assign character???
+            in_stream.get(character);
             in_stream.get(character);
         }
         
