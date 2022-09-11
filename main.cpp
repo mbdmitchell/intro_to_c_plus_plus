@@ -11,7 +11,7 @@
 int main(int argc, const char * argv[]) {
     using namespace std;
     
-    ifstream in_stream; //takes values from files / provides input operation on files / read data from files
+    ifstream in_stream; 
     
     in_stream.open(".../main.cpp");
    
