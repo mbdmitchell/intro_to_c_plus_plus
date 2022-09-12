@@ -10,11 +10,12 @@ integer: 56
 
 ## THE 'WHY'
 `in_stream >> character >> integer;` the first char in the stream is assigned to 'character' and all following chars in the stream until the next space are assigned to 'integer'
-This results in, 
-character: '1'
-integer: 23
+
+This results in:
+`character: '1'
+integer: 23`
 
 When this line repeats it reads from '4'.
 This results in, 
-character: '4'
-integer: 56
+`character: '4'
+integer: 56`
