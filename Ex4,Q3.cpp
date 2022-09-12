@@ -29,7 +29,9 @@ int main(int argc, const char * argv[]) {
         charCount++;
         in_stream.get(character);
     }
+    in_stream.close();
     
     cout << charCount << endl;
+    
     return 0;
 }
