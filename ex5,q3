@@ -1,0 +1,19 @@
+https://www.doc.ic.ac.uk/~wjk/C++Intro/RobMillerE5.html
+
+Program A outputs:  
+1  
+1   
+1  
+1  
+1  
+
+Program B outputs:
+1  
+1  
+1  
+1  
+1  
+.  
+.  
+.  
+(it is in an infinite loop)  
