@@ -30,7 +30,7 @@ int main()
         exit(1);
     }
     
-    /* Add chars to tally*/
+    /* Add chars to tally */
     char character;
     while(!(in_stream.eof())){
         in_stream.get(character);
