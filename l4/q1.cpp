@@ -8,7 +8,7 @@
 #include <unistd.h>
 #include <fstream>
 
-int main(int argc, const char * argv[]) {
+int main() {
     using namespace std;
     
     ifstream in_stream; 
