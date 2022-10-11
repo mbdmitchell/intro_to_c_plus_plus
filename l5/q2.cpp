@@ -1,7 +1,7 @@
 //
 //  main.cpp
 //  Ex 5, Q2
-//  Write a function "print_pyramid(...)" which takes a single integer argument "height" and displays a "pyramid" of this height made up of of "*" characters on the screen. Test the function with a simple "driver" program
+//  Write a function "print_pyramid()" which takes a single integer argument "height" and displays a "pyramid" of this height made up of of "*" characters on the screen. Test the function with a simple "driver" program
 //  Created by Max Mitchell on 13/09/2022.
 //
 
