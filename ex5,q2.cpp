@@ -8,7 +8,6 @@
 #include <iostream>
 
 int get_valid_height();
-
 void print_pyramid(int height);
 void driver(int lower, int upper);
 
