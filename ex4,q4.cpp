@@ -20,7 +20,7 @@ int main(int argc, const char * argv[]) {
         in_stream.seekg(-i,ios::end); // read back with seekg
         in_stream.get(c);
         cout << c;
-        }
+    }
     
     in_stream.close();
     
